@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -509,4 +508,3 @@ st.caption(
     "※ 1900~2100년의 예상값은 전체 분석 기간의 선형 회귀식을 "
     "1900~2100년까지 연장하여 계산한 값입니다."
 )
-```
